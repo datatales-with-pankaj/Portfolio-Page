@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **code.pankajgupta@gmail.com**
 
-- ⚡ Fun fact **I have a thing for old english movies**
+- ⚡ Fun fact : **I have a thing for cooking and making margaritas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
