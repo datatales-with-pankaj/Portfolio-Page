@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/buzzzingaaaa" target="blank"><img src="https://img.shields.io/twitter/follow/buzzzingaaaa?logo=twitter&style=for-the-badge" alt="buzzzingaaaa" /></a> </p>
 
-- 🔭 I’m currently working on **Interpretable Machine Learning**
+- 🔭 I’m currently explroring **Explainable Machine Learning and How to do Machine Learning on a Decentralization Scale**
 
 - 👯 I’m looking to collaborate on **Research and Industry oriented projects**
 
@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [Medium](Medium)
 
-- 📫 How to reach me **code.pankajgupta@gmail.com**
+- 📫 How to reach me **pankajgupta.dtu@gmail.com**
 
 - ⚡ Fun fact : **I have a thing for cooking and making margaritas**
 
