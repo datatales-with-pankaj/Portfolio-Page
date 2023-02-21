@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Research and Industry oriented projects**
 
-- 🤝 I’m looking for help with **Graph Neural Networks**
+- 🤝 I’m looking for help with **Multi-Modal Learning**
 
 - 📝 I regularly write articles on [Medium](Medium)
 
